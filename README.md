@@ -2,7 +2,8 @@
   <h1>📦 SATURN 프로젝트: 반도체 패키징 DP공정 기술 및 수율·품질 엔지니어링 실무</h1>
   <h3>BGA 패키징 DP(Lamination, Back Grinding, Sawing) 공정 셋업, FMEA 기반 위험성 평가, 4M1E/5-Why 치핑(Chipping) 불량 트러블슈팅 및 공정능력(Cpk) 양산성 검증</h3>
   <p>
-    <img src="https://img.shields.io/badge/Domain-Semiconductor_Packaging-blue?style=for-the-badge" alt="Packaging"/>
+    
+    <img src="https://img.shields.io/badge/Period-2026.08.24_%7E_2026.09.13-purple?style=for-the-badge" alt="Period"/>
     <img src="https://img.shields.io/badge/Process-Die_Preparation_(DP)-orange?style=for-the-badge" alt="DP Process"/>
     <img src="https://img.shields.io/badge/Methodology-FMEA_%26_4M1E_%26_5Why-green?style=for-the-badge" alt="Methodology"/>
     <img src="https://img.shields.io/badge/Quality-Cpk_%26_DOE_Analysis-red?style=for-the-badge" alt="Quality"/>
@@ -11,7 +12,8 @@
 
 <br/>
 
-## 📖 프로젝트 개요 (Overview)
+
+* **프로젝트 수행 기간:** 2026.08.24 ~ 2026.09.13 (렛유인 반도체 패키징 엔지니어링 실무)
 본 프로젝트는 글로벌 스마트폰(A사)에 탑재되는 초박형 고성능 모바일 기기용 **254FBGA(Normal Single BGA)** 패키지인 **'SATURN 프로젝트'**의 성공적인 양산성 검증(Mass Qualification)을 목표로 수행된 **반도체 후공정(OSAT) 엔지니어링 실무 프로젝트**입니다.
 
 반도체 전공정을 마친 12인치 웨이퍼(초기 두께 780㎛)를 수취하여, 칩을 절단하고 패키징 기판에 실장하기 직전 단계인 **DP(Die Preparation) 단위 공정(BG Tape Lamination → Back Grinding → Wafer Sawing)**을 중심으로 진행되었습니다. 
